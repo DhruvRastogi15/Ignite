@@ -1,0 +1,14 @@
+com/ignite/MainActivity.java
+ com.ignite.MainActivity
+com/ignite/BuildConfig.java
+ com.ignite.BuildConfig
+com/ignite/MainApplication.java
+ com.ignite.MainApplication
+ com.ignite.MainApplication$1
+com/ignite/ReactNativeFlipper.java
+ com.ignite.ReactNativeFlipper
+ com.ignite.ReactNativeFlipper$1
+ com.ignite.ReactNativeFlipper$2
+ com.ignite.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

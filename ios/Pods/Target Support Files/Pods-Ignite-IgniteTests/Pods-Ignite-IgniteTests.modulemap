@@ -1,0 +1,6 @@
+module Pods_Ignite_IgniteTests {
+  umbrella header "Pods-Ignite-IgniteTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
