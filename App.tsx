@@ -55,6 +55,9 @@ const Section: React.FC<{
   );
 };
 
+let abc = ''
+let def = 2
+
 const App = () => {
   const isDarkMode = useColorScheme() === 'dark';
 
